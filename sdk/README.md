@@ -6,7 +6,8 @@ var sdk = new SDK();
 ```
 
 ## Recebendo eventos
-Adicione ao projeto que irá consumir eventos, o arquivo chamado ***events/nome_do_evento.js*** que irá responder pelos eventos de **nome_do_evento**.
+Para adicionar o consumo de novos eventos, a projetos que utiliza este SDK, basta adicionar o arquivo chamado ***events/nome_do_evento.js*** que irá responder pelos eventos de **nome_do_evento**.  
+Segue exemplo:  
 
 ```javascript
 module.exports = {
@@ -34,7 +35,7 @@ Executando:
 node workers.js
 ```
 
-## Disparando eventos
+## Disparando eventos do Publisher
 
 ```javascript
 var event_name = "nome_do_evento";
