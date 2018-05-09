@@ -1,4 +1,5 @@
 ## Utilizando o SDK
+*O guia a baixo, não é necessário para a execução dos sistemas relacionados ao teste da vaga B2W, está implementação já foi criada nos serviços, desenvolvidos para o teste.
 
 ```javascript
 const SDK = require("sdk");
