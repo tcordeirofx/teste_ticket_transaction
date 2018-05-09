@@ -35,6 +35,7 @@ npm run migrate
 ```
 
 ### Rodando
+
 ```
 npm start
 ```
