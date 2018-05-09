@@ -8,9 +8,9 @@ O endpoint "/assign/buy_ticket", recebe o seguinte formato para comprar de ingre
 {
 
 	"data_compra" : "2020-01-01",
-	"account_id": "111111",
-	"id_ingresso": "650540646064560",
-	"id_show": "654321",
+	"account_id": 111111,
+	"id_ingresso": 650540646064560,
+	"id_show": 654321,
 	"valor": 654.32  
 	
 }
