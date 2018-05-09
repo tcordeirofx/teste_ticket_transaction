@@ -7,15 +7,15 @@ Consulta com id_ingresso e um id_show se é uma combinação válida.
 
 ### Dependências
 
--- Node
--- MySQL
+-- Node  
+-- MySQL  
 
 ### Ambiente
-  PORT=4010
-  DB_SYSTEM="mysql"
-  DB_NAME
-  DB_USERNAME
-  DB_PASSWORD
+  PORT=4010  
+  DB_SYSTEM="mysql"  
+  DB_NAME  
+  DB_USERNAME  
+  DB_PASSWORD  
   DB_HOST
   
 ### Instalando as bibliotecas
