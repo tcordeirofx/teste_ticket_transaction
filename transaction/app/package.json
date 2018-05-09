@@ -1,0 +1,20 @@
+{
+  "name": "transaction",
+  "version": "1.0.0",
+  "description": "Serviço para Monitoramento de Transações",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "worker": "nodemon worker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Cordeiro",
+  "license": "ISC",
+  "dependencies": {
+    "sdk": "./../../sdk"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1",
+    "nodemon": "^1.17.4"
+  }
+}
