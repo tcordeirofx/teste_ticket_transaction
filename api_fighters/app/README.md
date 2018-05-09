@@ -12,7 +12,7 @@ Consultar o tícket médio por show (soma dos valores / total de valores).
 
 ### Ambiente
   PORT=4011  
-  DB_SYSTEM="mysql"  
+  DB_SYSTEM="sequelize"  
   DB_NAME  
   DB_USERNAME  
   DB_PASSWORD  
